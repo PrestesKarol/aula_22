@@ -1,4 +1,4 @@
-const API_KEY = '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';
+const API_KEY = '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';
 const username = 'PrestesKarol';
 
 const url = `https://api.github.com/users/${username}`;
